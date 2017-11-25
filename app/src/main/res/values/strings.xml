@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Call Gate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_denied">Location Permission is required for the app to work</string>
+    <string name="add_target">Click here to add a Target !</string>
+    <string name="target_created_success">Target aquired</string>
+    <string name="target_created_error">Faile to create taget</string>
+</resources>
